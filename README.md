@@ -15,4 +15,4 @@ Projeto desenvolvido para a disciplina de TI utilizando Arduino.
 
 ## Arquivo do projeto
 
-O código-fonte está disponível no arquivo `cofre_inteligente.ino`.
+O código-fonte está disponível no arquivo `cofre_medicamentos_p6_ti1.ino`.
